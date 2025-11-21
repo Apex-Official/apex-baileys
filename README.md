@@ -93,5 +93,5 @@ start();
 
 
 <div align="center">
-✦⿻✦ <span style="color:#FF0000;">APEX Baileys | RADIO DEMON — Dark Team</span> ✦⿻✦  
+ <span style="color:#FF0000;">APEX Baileys | RADIO DEMON — Dark Team</span> 
 </div>
