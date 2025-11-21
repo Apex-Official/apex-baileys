@@ -17,10 +17,10 @@ Built for developers who want **speed, stability and full control**
 Developed by **RADIO DEMON** — APEX / Dark Team  
 
 </div>
-[🌐 Visit Official Site](https://apex-official.vercel.app/)  
-[💬 WhatsApp Updates Channel](https://whatsapp.com/channel/0029VaXYZ)
-
----
+[🌐 Visit Official Site]
+https://apex-official.vercel.app/  
+[💬 WhatsApp Updates Channel]
+https://whatsapp.com/channel/0029Vb6qkXM8V0tvdYh1fJ2g
 ---
 
 ## 🔧 What is APEX Baileys?
